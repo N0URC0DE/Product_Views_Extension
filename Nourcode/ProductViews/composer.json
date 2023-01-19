@@ -24,7 +24,7 @@
             "url": "https://repo.magento.com/"
         },
         "nourcode-module-product-views": {
-            "type": "git",
+            "type": "vcs",
             "url": "git@github.com:nourscode/Product_Views_Extension.git"
         }
     }
