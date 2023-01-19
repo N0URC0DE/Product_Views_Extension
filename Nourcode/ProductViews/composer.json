@@ -23,7 +23,7 @@
             "type": "composer",
             "url": "https://repo.magento.com/"
         },
-        "elpas0-magento2-configuration-arrayserialized": {
+        "nourcode-module-product-views": {
             "type": "git",
             "url": "git@github.com:nourscode/Product_Views_Extension.git"
         }
