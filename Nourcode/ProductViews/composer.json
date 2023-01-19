@@ -18,11 +18,15 @@
         "Nourcode\\ProductViews\\": ""
       }
     },
-    "repositories": [
-      {
-        "type": "git",
-        "url":  "git@github.com:nourscode/Product_Views_Extension.git"
-      }
-    ]
+    "repositories": {
+        "0": {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        },
+        "elpas0-magento2-configuration-arrayserialized": {
+            "type": "git",
+            "url": "git@github.com:nourscode/Product_Views_Extension.git"
+        }
+    }
   }
   
