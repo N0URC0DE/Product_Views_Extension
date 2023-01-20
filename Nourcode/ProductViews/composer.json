@@ -4,8 +4,7 @@
     "description": "N/A",
     "type": "magento2-module",
     "require": {
-      "php": "~7.0.13|~7.1.0|~7.2.0|~7.3.0|~7.4.0|^8.0",
-      "nourcode/module-product-views": "dev-master"
+      "php": "~7.0.13|~7.1.0|~7.2.0|~7.3.0|~7.4.0|^8.0"
     },
     "license": [
       "Proprietary"
@@ -17,6 +16,11 @@
       "psr-4": {
         "Nourcode\\ProductViews\\": ""
       }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
     },
     "repositories": {
         "0": {
